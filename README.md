@@ -1,4 +1,3 @@
 # 😕
 ### Elfelejtettem 
-#### a
-##### felhasznalovenem
+#### a felhasználónevem
